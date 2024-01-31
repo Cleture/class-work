@@ -1,0 +1,12 @@
+
+.nav-logo{
+    display: flex;
+}
+.list-items{
+        display: flex;
+        gap: 1.3cm;
+        list-style: none;  
+        margin-top: 0.6cm;
+        padding-right: 4c;
+}
+   
